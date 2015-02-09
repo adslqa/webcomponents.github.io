@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WebComponents.org]]></title>
+        <description><![CDATA[A place to discuss and evolve Web Component best-practices]]></description>
+        <link>http://localhost:9778</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 03 Feb 2015 01:59:00 GMT</lastBuildDate>
+        <atom:link href="http://localhost:9778/podcasts.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 03 Feb 2015 01:58:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[21: The X-Tag Project]]></title>
+            <description><![CDATA[<p>Daniel Buchner, Product Manager at Target &amp; former Mozillian, talks with
+The Web Platform Podcast on x-tag, the Custom Elements library competitor
+to Polymer that he created alongside former Mozillian &amp; Kraken Developer,
+Arron Schaar. X-tag is a interesting way to work with web components that
+takes a totally imperative approach to creating Web Components as opposed
+to the declarative way of building with Polymer. Some features include
+legacy browser support, optional mixins to share across components, &amp;
+functional pseudos to assist in delegation.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-21_the-xtag-project.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/21-the-x-tag-project</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/21-the-x-tag-project</guid>
+            <pubDate>Fri, 12 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20: Mozilla Brick, ‘UIKit’ for The Web]]></title>
+            <description><![CDATA[<p>Matt Claypotch, Mozilla Apps Engineer &amp; Lead on Mozilla Brick Project and Soledad Penades,
+GIF Hacktivist &amp; Mozilla Apps Engineer, join The Web Platform Podcast to talk about building
+UI focused Web Components for the &#39;Mobile First&#39; Web Development. Mozilla Brick is a set of
+&#39;Mobile First&#39; focused Web Components built as close to the specs as possible. It is not a
+library built on top of Web Components like Polymer, it is a collection of elements with as
+little abstraction as possible. Brick&#39;s goal has been to make building the interface of web
+applications easier. UI is not as easy for many developers to build from scratch and it can be
+difficult to get performant, usable, and attractive widgets.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-20-mozilla-brick-uikit-for-the-web.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/20-mozilla-brick-uikit-for-the-web</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/20-mozilla-brick-uikit-for-the-web</guid>
+            <pubDate>Sun, 30 Nov 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[141: With Marcy Sutton]]></title>
+            <description><![CDATA[<p>Shop Talk Show is joined by Marcy Sutton. Marcy is a interactive
+developer at Substantial in Seattle. We take a deep dive into
+web components, accessibility, Angular JS, AJAX, ARIA, and more!</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://audio.simplecast.fm/6424.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/141-with-marcy-sutton</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/141-with-marcy-sutton</guid>
+            <pubDate>Mon, 10 Nov 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[14: Web Components Interop and Polymer]]></title>
+            <description><![CDATA[<p>Today, Web Components have emerged from cutting edge technologies to technologies
+we can implement in our small scale production. It won’t be long before we are
+building large scale applications with Custom Elements, HTML Imports, Template Tags,
+and the infamous Shadow DOM. In embracing this type of developer environment, with
+it’s flexibility and compositional nature, consider interoperabilty as a core concept.</p>
+<p>Rob Dodson, Google Engineer, goes through many of the changes made to Polymer 0.4.2,
+including accessibility and performance enhancements that help in making applications more
+integrated and how Google is working to share what the Blink Team has learned from implementing
+Web Components in Chrome with other browser vendors and developers.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-14_web-components-interop-and-polymer.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/14-web-components-interop-and-polymer</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/14-web-components-interop-and-polymer</guid>
+            <pubDate>Fri, 17 Oct 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[86: Customizing the Web with Rob Dodson]]></title>
+            <description><![CDATA[<p>Web Components are all the rage these days — a way to create the web
+using chunks of code that are reusable across projects. Polymer is a
+polyfill for using Web Components today. Rob Dodson joins Jen Simmons
+to explain the current landscape.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://fdlyr.co/d/webahead/cdn.5by5.tv/audio/broadcasts/webahead/2014/webahead-086.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/customizing-the-web-with-rob-dodson</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/customizing-the-web-with-rob-dodson</guid>
+            <pubDate>Wed, 08 Oct 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11: The Bosonic Project]]></title>
+            <description><![CDATA[<p>Raphael Rougeron joins The Web Platform Podscast from Toulouse, France to talk about The Bosonic Project.
+Raphael and his team of developers mostly focus their development efforts working in the Financial Industry,
+building out secure and robust applications as well as intricate cross browser UI Components. The UI
+components part of his work is especially interesting in that it led him to create The Bosonic Project, an alternative
+type of Web Components library that takes a different approach than Polymer or x-Tag.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-11_the-bosonic-project.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/11-the-bosonic-project</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/11-the-bosonic-project</guid>
+            <pubDate>Mon, 15 Sep 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9: Web Accessibility for JavaScript Components and Custom Elements]]></title>
+            <description><![CDATA[<p>Steve Faulkner of The Paciello Group and Marcy Sutton from Substantial discuss the lack of focus in product development
+today with regards to building accessible applications &amp; services. Many times web accessibility becomes an afterthought in
+creating a software product, having little prioritization from the business side until it is a problem. Retrofitting such
+an important part of our development can make web accessibility seem more like a chore with low ROI for the the time taken
+to implement it. It can be easy if developers know how to do it and hardly any work when it is successfully incorporated
+into a development process and it’s valued at the business level.</p>
+<p>In many client side frameworks there is a growing focus on componentization in the form of  HTML elements. Some examples
+are Angular Directives, Ember Components, and React Classes. Web Components, a low level set of native web technologies,
+give developers a chance to build better Web Accessibile components. Using various tools like WAI ARIA roles at a more focused
+&amp; reusable level, Web Components may just be the future of accessibility on the web.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-9_web-accessibility-for-javascript-components-and-custom-elements.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/9-web-accessibility-for-javascript-components-and-custom-elements</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/9-web-accessibility-for-javascript-components-and-custom-elements</guid>
+            <pubDate>Wed, 03 Sep 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[124: With Rob Dodson]]></title>
+            <description><![CDATA[<p>Shop Talk Show is joined by Rob Dodson. Rob works on Polymer
+at Google. True Facts. We take a deep dive with him into Polymer
+and Web Components.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://audio.simplecast.fm/6407.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/124-with-rob-dodson</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/124-with-rob-dodson</guid>
+            <pubDate>Tue, 12 Aug 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[120: Google Polymer with Rob Dodson and Eric Bidelman]]></title>
+            <description><![CDATA[<p>The JavaScript Jabber Panel discusses the Polymer Project
+with guests Rob Dodson &amp; Eric Bidelman who work on the
+project at Google. They discussion the components, frameworks,
+&amp; libraries available to developers as well the strengths and
+weaknesses of web components</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://media.devchat.tv/js-jabber/JSJ120GooglePolymer.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/google-polymer-with-rob-dodson-and-eric-bidelman</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/google-polymer-with-rob-dodson-and-eric-bidelman</guid>
+            <pubDate>Wed, 06 Aug 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5: The Web Components Community]]></title>
+            <description><![CDATA[<p>Web Components are a set of emerging and rapidly changing technologies alter the way many developers are starting to
+build web applications. Zeno Rocha, a dominant force in the front end development community talks with
+The Web Platform Podcast on how developers can get started building with these technologies today &amp; how to build their
+own components. Zeno covers tooling, using Github &amp; Bower, building for the communities, and other front end developer
+goodness.</p>
+<!-- Excerpt -->
+
+<div class="podcast-wrap">
+    <audio controls itemprop="audio">
+      <source src="http://traffic.libsyn.com/thewebplatform/episode-5_the-web-components-community.mp3" type="audio/mpeg">
+    </audio>
+</div>]]></description>
+            <link>http://localhost:9778/podcasts/5-the-web-components-community</link>
+            <guid isPermaLink="true">http://localhost:9778/podcasts/5-the-web-components-community</guid>
+            <pubDate>Mon, 04 Aug 2014 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
